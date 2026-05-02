@@ -1,0 +1,19 @@
+<?php
+$_LANG['zabbix_hosts_used']       = 'Hosts used';
+$_LANG['zabbix_add_host']         = 'Add Host';
+$_LANG['zabbix_remove_host']      = 'Remove';
+$_LANG['zabbix_open_ui']          = 'Open Zabbix UI';
+$_LANG['zabbix_host_address']     = 'IP Address or Hostname';
+$_LANG['zabbix_connection_type']  = 'Connection Type';
+$_LANG['zabbix_type_agent']       = 'Zabbix Agent (recommended)';
+$_LANG['zabbix_type_snmp']        = 'SNMP';
+$_LANG['zabbix_type_icmp']        = 'ICMP Ping only';
+$_LANG['zabbix_agent_hint']       = 'Zabbix Agent requires installing the agent on your server. After adding the host you will receive a config file with a unique PSK encryption key. Save the PSK key immediately — it will only be shown once.';
+$_LANG['zabbix_psk_warning']      = 'Save your PSK key now — it will not be shown again';
+$_LANG['zabbix_status_monitored'] = 'Monitored';
+$_LANG['zabbix_status_suspended'] = 'Suspended';
+$_LANG['zabbix_limit_reached']    = 'Host limit reached. Upgrade your plan to add more hosts.';
+$_LANG['zabbix_no_hosts']         = 'No hosts added yet.';
+$_LANG['zabbix_confirm_remove']   = 'Remove this host?';
+$_LANG['zabbix_connection_ok']    = 'Connection successful';
+$_LANG['zabbix_connection_fail']  = 'Connection failed';

@@ -1,0 +1,19 @@
+<?php
+$_LANG['zabbix_hosts_used']       = 'Использовано хостов';
+$_LANG['zabbix_add_host']         = 'Добавить хост';
+$_LANG['zabbix_remove_host']      = 'Удалить';
+$_LANG['zabbix_open_ui']          = 'Открыть Zabbix UI';
+$_LANG['zabbix_host_address']     = 'IP-адрес или имя хоста';
+$_LANG['zabbix_connection_type']  = 'Тип подключения';
+$_LANG['zabbix_type_agent']       = 'Zabbix Agent (рекомендуется)';
+$_LANG['zabbix_type_snmp']        = 'SNMP';
+$_LANG['zabbix_type_icmp']        = 'Только ICMP Ping';
+$_LANG['zabbix_agent_hint']       = 'Zabbix Agent требует установки агента на ваш сервер. После добавления хоста вы получите готовый конфиг с уникальным PSK-ключом шифрования. Сохраните PSK-ключ сразу — он будет показан только один раз.';
+$_LANG['zabbix_psk_warning']      = 'Сохраните PSK-ключ сейчас — он больше не будет показан';
+$_LANG['zabbix_status_monitored'] = 'Мониторится';
+$_LANG['zabbix_status_suspended'] = 'Приостановлен';
+$_LANG['zabbix_limit_reached']    = 'Достигнут лимит хостов. Обновите тариф для добавления новых хостов.';
+$_LANG['zabbix_no_hosts']         = 'Хосты ещё не добавлены.';
+$_LANG['zabbix_confirm_remove']   = 'Удалить этот хост?';
+$_LANG['zabbix_connection_ok']    = 'Подключение успешно';
+$_LANG['zabbix_connection_fail']  = 'Ошибка подключения';
