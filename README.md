@@ -2,7 +2,7 @@
 
 WHMCS provisioning module for [Zabbix](https://www.zabbix.com/) — sell network monitoring as a service. Automates account creation, suspension, termination and password changes for Zabbix users.
 
-<img src="https://github.com/rorry47/zabbix_module_WHMCS/blob/main/screenshot_module.jpg?raw=true">
+<img src="https://github.com/rorry47/zabbix_module_WHMCS/blob/main/screenshot_module.jpg">
 
 ---
 
